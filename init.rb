@@ -1,6 +1,6 @@
 require 'redmine'
 
-Redmine::Plugin.register :redmine_attviewer do
+Redmine::Plugin.register :redmine_attachment_viewer do
   name 'Redmine Attachment Viewer plugin'
   author 'Yusuke Kokubo'
   description 'view attachments.'
